@@ -2,14 +2,6 @@
 
 Gamedent is a web application dedicated to promoting proper oral hygiene by providing information and guidance on tooth flossing.
 
-## Features
-
-- **Educational Videos:** Watch informative videos to learn and master proper tooth flossing techniques.
-- **Interactive Carousel:** Explore a variety of tooth flossing products and methods through an engaging carousel display.
-- **WhatsApp Support:** Connect with us instantly on WhatsApp for any questions or assistance.
-- **Responsive Design:** Enjoy a seamless user experience on different devices with our mobile-friendly interface.
-- **Material-UI Integration:** Utilizing Material-UI for a modern and consistent design.
-
 ## Technologies Used
 
 - [React](https://reactjs.org/): A powerful JavaScript library for building user interfaces.
