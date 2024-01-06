@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'generalmd';
+    src: url("../font/GeneralSans-Medium.otf");
+}
+.szh-accordion__item-btn{
+    font-family: 'generalmd', sans-serif;
+    color: black;
+    background: none !important;
+}
+.szh-accordion__item--status-entered{
+    background: #E9F0F5 !important;
+    border-radius: 30px !important;
+}
+.szh-accordion__item--status-entered  button{
+    border-bottom: 1px solid black !important;
+}
+.font5{
+    font-family: 'generalmd', sans-serif;
+
+    font-style: normal;
+    line-height: 130% !important; /* 52.5px */
+}
+.szh-accordion__item-panel{
+    padding-top: 25px;
+}
